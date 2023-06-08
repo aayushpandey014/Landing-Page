@@ -1,2 +1,2 @@
-# OCTANTE_JUNE
+# OCTANATE_JUNE
 My summer internship task is uploaded here.
